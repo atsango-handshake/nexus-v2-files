@@ -60,13 +60,10 @@ Realism continues to be the most reliable dimension. Almost all tasks use authen
 1. **Missing raw reads** — Forces non-standard k-mer-based workarounds that no professional would use with real data available.
    > *"In a real experiment, the raw read files would be available. While the task is accomplishable without them using k-mer multiplicities as a coverage estimate, a real experiment would not be limited by the lack of this data, making this problem artificially constrained."*
 
-2. **Inaccessible reference database** — UNITE fungal ITS database unavailable, making taxonomy tasks unrealistic rather than merely difficult.
-   > *"The inaccessibility of the UNITE fungal ITS reference database presents a significant obstacle — a human analyst would typically prioritize acquiring it or an equivalent before proceeding."*
-
-3. **Contrived aggregation logic** — Combining genome bins from three different algorithms with no professional motivation.
+2. **Contrived aggregation logic** — Combining genome bins from three different algorithms with no professional motivation.
    > *"The complexity of this task is artificially constructed. The overall process would involve obtaining values from existing output summaries rather than processing a full assembly, mapping, and binning pipeline."*
 
-4. **Unusual metric isolated from practical context** — Metrics that professionals would only compute as part of a broader investigation, never in isolation.
+3. **Unusual metric isolated from practical context** — Metrics that professionals would only compute as part of a broader investigation, never in isolation.
 
 ---
 
